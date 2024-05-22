@@ -1,0 +1,11 @@
+The code simulates a grouping app that shuffles groups in a team for swarms.
+
+The code does work, but it does not include the initial weekly assignments feature or database integration.
+
+It's more seamless and regroups every time, although randomly.
+
+The code does not have any specific algorithm for regrouping. It is random.
+
+Not too many tries, mostly import struggles.
+
+It was good.
